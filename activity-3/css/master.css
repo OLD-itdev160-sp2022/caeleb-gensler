@@ -1,0 +1,56 @@
+body {
+  font-family: 'Open Sans', 'Arial', 'serif';
+}
+
+h1 {
+  font-size: 36pt;
+  text-align: center;
+  text-decoration: underline;
+}
+
+img {
+  width: 30%;
+  height: 30%;
+}
+
+figure {
+  text-align: center;
+}
+
+span {
+  font-size: 10pt;
+}
+
+p.description {
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+h2#review-title {
+  text-align: center;
+  font-size: 20pt;
+}
+
+div#outer {
+  display: flex;
+  flex-flow: row;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+div#inner {
+  outline: auto;
+  outline-color: #00adee;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+h4, p#review-text, p#score {
+  text-align: center;
+}
+
+span#footer {
+  margin: 10%;
+  text-align: left;
+}
