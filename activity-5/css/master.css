@@ -1,0 +1,25 @@
+body {
+  font-family: 'Open Sans', Arial, sans-serif;
+  margin: auto 30px;
+}
+
+#header-image{
+  width: 100%;
+}
+
+.extension-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.header-box {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+#extImage {
+  margin-right: 5%;
+}
